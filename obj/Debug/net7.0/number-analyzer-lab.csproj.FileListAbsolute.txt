@@ -1,0 +1,15 @@
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/bin/Debug/net7.0/number-analyzer-lab
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/bin/Debug/net7.0/number-analyzer-lab.deps.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/bin/Debug/net7.0/number-analyzer-lab.runtimeconfig.json
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/bin/Debug/net7.0/number-analyzer-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/bin/Debug/net7.0/number-analyzer-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.csproj.AssemblyReference.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.GeneratedMSBuildEditorConfig.editorconfig
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.AssemblyInfoInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.AssemblyInfo.cs
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.csproj.CoreCompileInputs.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/refint/number-analyzer-lab.dll
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.pdb
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/number-analyzer-lab.genruntimeconfig.cache
+/Users/doug/Documents/Coding/grand-circus/back-end/day-2-conditionals/number-analyzer-lab/obj/Debug/net7.0/ref/number-analyzer-lab.dll
