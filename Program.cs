@@ -9,7 +9,7 @@ while (runProgram)
     if (integer is int && integer > 0 && integer <= 100)
     {  
         //if even
-        if (integer % 2 == 0) //if even
+        if (integer % 2 == 0)
         {
             if (integer >= 2 && integer <= 24)
             {
@@ -24,7 +24,8 @@ while (runProgram)
                 Console.WriteLine($"\n{integer} is even and between 26 and 60 inclusive.");
             }
         }
-        else //if odd
+        //if odd
+        else 
         {
             if (integer < 60)
             {
