@@ -43,11 +43,16 @@ while (runProgram)
 
         //While loop: Ask to run again or exit
         Console.WriteLine("Would you like to enter another number? y/n");
-        string choice = Console.ReadLine();
+        string choice = Console.ReadLine().ToLower().Trim();
         if (choice == "n")
         {
             Console.WriteLine("Goodbye.");
             runProgram = false;
+        break;
+        } else if (choice == "y")
+        {
+            runProgram = true;
+            break;
         }
         
 
